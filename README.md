@@ -63,11 +63,7 @@ The app follows a layered architecture:
 
 ## Screenshots
 
-*(Add screenshots of your app here. Include Login, News Feed, Bookmarks, Search, and an Article Detail page.)*
-
-Example:
-![Login Screen](screenshots/login.png)
-![News Feed Screen](screenshots/news_feed.png)
+Link : https://github.com/SAfsehEhsani/My-News-App/tree/main/assets/icons
 
 ## Submission
 
