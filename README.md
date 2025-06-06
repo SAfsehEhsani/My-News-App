@@ -71,7 +71,7 @@ Example:
 
 ## Submission
 
-*   **APK File:** [Link to your Google Drive with app-release.apk]
+*   **APK File:** https://drive.google.com/file/d/1yrtGSHFv6y76ZXVE8I0UQiuJ8NtsfVp-/view?usp=sharing
 
 
 ## Developer
