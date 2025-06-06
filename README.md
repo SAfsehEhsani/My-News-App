@@ -1,6 +1,6 @@
 # My News App
 
-# A new Flutter project.
+A news Flutter project.
 
 # Flutter News App
 
